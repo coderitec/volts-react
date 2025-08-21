@@ -1,5 +1,7 @@
 import { Playwrite_AR, Meow_Script } from "next/font/google";
 import "./globals.css";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 const play = Playwrite_AR({
   subsets: ["latin"],
@@ -20,11 +22,14 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={play.className}
-      >
-        <h1 className={`${meo.className} text-4xl`}>Welcome and good afternoon</h1>
+      <body className={play.className}>
+        <Navbar />
+        <div className="min-h-screen p-4">
+
         {children}
+        </div>
+
+        <Footer />
       </body>
     </html>
   );

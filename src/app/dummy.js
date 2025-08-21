@@ -11,7 +11,7 @@ export const products = [
       "Comfortable ear pads"
     ],
     productDetails: "Over-ear wireless headphones with Bluetooth 5.0.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1503",
     dealer: "TechWorld"
   },
   {
@@ -26,7 +26,7 @@ export const products = [
       "Durable leather material"
     ],
     productDetails: "Black ergonomic office chair for comfort and support.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1501",
     dealer: "FurniMart"
   },
   {
@@ -41,7 +41,7 @@ export const products = [
       "Stylish look"
     ],
     productDetails: "Men’s running shoes perfect for sports and daily wear.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1505",
     dealer: "StyleHub"
   },
   {
@@ -56,7 +56,7 @@ export const products = [
       "Fast charging"
     ],
     productDetails: "Latest smartphone with advanced features.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1502",
     dealer: "TechWorld"
   },
   {
@@ -71,7 +71,7 @@ export const products = [
       "Easy to clean"
     ],
     productDetails: "Classic wooden dining table, sturdy and stylish.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1508",
     dealer: "FurniMart"
   },
   {
@@ -86,7 +86,7 @@ export const products = [
       "Machine washable"
     ],
     productDetails: "Classic blue denim jacket suitable for all seasons.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1502",
     dealer: "StyleHub"
   },
   {
@@ -101,7 +101,7 @@ export const products = [
       "Multiple cooking modes"
     ],
     productDetails: "Compact microwave oven for modern kitchens.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1507",
     dealer: "HomeEase"
   },
   {
@@ -116,7 +116,7 @@ export const products = [
       "Stylish finish"
     ],
     productDetails: "Double-door refrigerator with advanced cooling.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1502",
     dealer: "HomeEase"
   },
   {
@@ -131,7 +131,7 @@ export const products = [
       "RGB backlit keyboard"
     ],
     productDetails: "Powerful gaming laptop for high performance.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1504",
     dealer: "TechWorld"
   },
   {
@@ -146,7 +146,7 @@ export const products = [
       "Durable glass jar"
     ],
     productDetails: "Multi-purpose blender for smoothies and sauces.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1504",
     dealer: "HomeEase"
   },
   {
@@ -161,7 +161,7 @@ export const products = [
       "Author signed"
     ],
     productDetails: "Bestselling novel with an immersive story.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1502",
     dealer: "BookNest"
   },
   {
@@ -176,7 +176,7 @@ export const products = [
       "Hardcover edition"
     ],
     productDetails: "Comprehensive cookbook for beginners and pros.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1501",
     dealer: "BookNest"
   },
   {
@@ -191,7 +191,7 @@ export const products = [
       "Space-efficient"
     ],
     productDetails: "Stylish bookshelf for living rooms or offices.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1503",
     dealer: "FurniMart"
   },
   {
@@ -206,7 +206,7 @@ export const products = [
       "Fast cooling"
     ],
     productDetails: "Split AC for cooling medium to large rooms.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1506",
     dealer: "HomeEase"
   },
   {
@@ -236,7 +236,7 @@ export const products = [
       "Energy efficient"
     ],
     productDetails: "Portable LED desk lamp for reading and work.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1501",
     dealer: "TechWorld"
   },
   {
@@ -251,7 +251,7 @@ export const products = [
       "Durable binding"
     ],
     productDetails: "Colorful storybook for children ages 5-10.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1502",
     dealer: "BookNest"
   },
   {
@@ -266,7 +266,7 @@ export const products = [
       "Modern finish"
     ],
     productDetails: "Stylish wardrobe with multiple compartments.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1503",
     dealer: "FurniMart"
   },
   {
@@ -281,7 +281,7 @@ export const products = [
       "Stainless steel body"
     ],
     productDetails: "Electric kettle for quick boiling and brewing.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1504",
     dealer: "HomeEase"
   },
   {
@@ -296,7 +296,7 @@ export const products = [
       "Durable handles"
     ],
     productDetails: "Stylish handbag for casual and formal occasions.",
-    image: "https://via.placeholder.com/150",
+    image: "https://via.placeholder.com/1509",
     dealer: "StyleHub"
   }
 ];
